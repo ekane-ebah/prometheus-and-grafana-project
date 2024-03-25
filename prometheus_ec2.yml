@@ -9,6 +9,7 @@ scrape_configs:
 
     static_configs:
 
-     - targets: ['172.31.28.69:9100']
-     - targets: ['172.31.21.48:9100']
+     - targets: ['172.31.30.76:9100']
+     - targets: ['172.31.25.85:9100']
+     - targets: ['172.31.23.172:9100']
       
